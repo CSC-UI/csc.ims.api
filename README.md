@@ -1,2 +1,2 @@
 # csc.rps.api
-CSC Result Processing System API
+CSC (Now Faculty of Computing) Information Management System API
